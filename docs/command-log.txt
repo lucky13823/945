@@ -1,0 +1,4 @@
+Commands run while assessing the repository:
+- ls
+- find .. -name AGENTS.md -print
+- ls -la /workspace/945
